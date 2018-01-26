@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneTouchInspection/ViewControllerHelpers/ZoneViewControllerHelper.swift"
+            timestampString = "537127486.224358"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "prepareSubmit(submit:assets:inspection:inspectionType:zoneDetails:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static OneTouchInspection.ZoneViewControllerHelper.prepareSubmit(submit: OneTouchInspection.Submit, assets: Swift.Array&lt;OneTouchInspection.Asset&gt;, inspection: OneTouchInspection.Inspection, inspectionType: OneTouchInspection.InspectionType, zoneDetails: OneTouchInspection.ZoneDetails) -&gt; ()"
+                  moduleName = "OneTouchInspection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niharikasharma/oti-swift/OneTouchInspection/ViewControllerHelpers/ZoneViewControllerHelper.swift"
+                  timestampString = "537127486.2393889"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OneTouchInspection.Asset) -&gt; Swift.Bool in static OneTouchInspection.ZoneViewControllerHelper.prepareSubmit(submit: OneTouchInspection.Submit, assets: Swift.Array&lt;OneTouchInspection.Asset&gt;, inspection: OneTouchInspection.Inspection, inspectionType: OneTouchInspection.InspectionType, zoneDetails: OneTouchInspection.ZoneDetails) -&gt; ()"
+                  moduleName = "OneTouchInspection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niharikasharma/oti-swift/OneTouchInspection/ViewControllerHelpers/ZoneViewControllerHelper.swift"
+                  timestampString = "537127486.2456959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OneTouchInspection/ViewControllerHelpers/ZoneViewControllerHelper.swift"
+            timestampString = "537127486.224443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "prepareSubmit(submit:assets:inspection:inspectionType:zoneDetails:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

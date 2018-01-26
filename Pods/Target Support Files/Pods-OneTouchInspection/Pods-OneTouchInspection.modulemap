@@ -1,0 +1,6 @@
+framework module Pods_OneTouchInspection {
+  umbrella header "Pods-OneTouchInspection-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module RNActivityView {
+  umbrella header "RNActivityView-umbrella.h"
+
+  export *
+  module * { export * }
+}
